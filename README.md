@@ -120,6 +120,7 @@ If Claude replies with permission errors, try `CLAUDE_PERMISSION_MODE=auto`.
 ## Related Projects
 
 - [claude_wechat_bot](https://github.com/zhuxi-czx/claude_wechat_bot) — Bridge Claude Code to WeChat
+- [claude_discord_bot](https://github.com/zhuxi-czx/claude_discord_bot) — Bridge Claude Code to Discord
 
 ## Feedback
 
